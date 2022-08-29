@@ -3,17 +3,20 @@
         "IDSchemaVersion": {
             "value": "IDSchemaVersion"
         },
-        "name": {
-            "value": "fullName"
+        "yourCapacity": {
+            "value": "yourCapacity"
         },
-        "gender": {
-            "value": "gender"
+        "nationality": {
+            "value": "nationality"
         },
-        "dob": {
-            "value": "dateOfBirth"
+        "yourOccupation": {
+            "value": "yourOccupation"
         },
-        "age": {
-            "value": "age"
+        "typeOfId": {
+            "value": "typeOfId"
+        },
+        "idNo": {
+            "value": "idNo"
         },
         "introducerRID": {
             "value": "introducerRID"
@@ -26,15 +29,12 @@
         },
         "introducerName": {
             "value": "introducerName"
-        },
-        "phone": {
-            "value": "phone"
-        },
+        }, 
         "phoneNumber": {
-            "value": "phone"
+            "value": "phoneNumber"
         },
-        "email": {
-            "value": "email"
+        "emailAddress": {
+            "value": "emailAddress"
         },
         "emailId": {
             "value": "email"
@@ -57,41 +57,29 @@
         "supervisorBiometricFileName": {
             "value": "supervisorBiometricFileName"
         },
-        "residenceStatus": {
-            "value": "residenceStatus"
-        },
         "preferredLanguage": {
             "value": "preferredLang"
         },
         "locationHierarchyForProfiling": {
-            "value": "zone,postalCode"
-        },
-        "addressLine1": {
-            "value": "addressLine1"
-        },
-        "addressLine2": {
-            "value": "addressLine2"
-        },
-        "addressLine3": {
-            "value": "addressLine3"
+            "value": "district,village"
         },
         "location1": {
-            "value": "city"
+            "value": "village"
         },
         "location2": {
-            "value": "region"
+            "value": "district"
         },
         "location3": {
-            "value": "province"
+            "value": "parish"
         },
         "postalCode": {
-            "value": "postalCode"
+            "value": "subCounty"
         },
         "location4": {
-            "value": "zone"
+            "value": "county"
         },
         "fullAddress": {
-            "value": "addressLine1,addressLine2,addressLine3,city,region,province,postalCode"
+            "value": "district,county,subCounty,parish,village"
         }
     },
     "metaInfo": {
