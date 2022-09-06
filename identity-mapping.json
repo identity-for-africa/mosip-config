@@ -3,20 +3,26 @@
         "IDSchemaVersion": {
             "value": "IDSchemaVersion"
         },
-        "yourCapacity": {
-            "value": "yourCapacity"
+        "name": {
+            "value": "surname,givenName"
+        }
+        "applicantType": {
+            "value": "applicantType"
         },
-        "nationality": {
-            "value": "nationality"
+        "dob": {
+            "value": "dateOfBirth"
+        },
+        "age": {
+            "value": "age"
+        },
+        "enrolmentLocation": {
+            "value": "enrolmentLocation"
         },
         "yourOccupation": {
             "value": "yourOccupation"
         },
-        "typeOfId": {
-            "value": "typeOfId"
-        },
-        "idNo": {
-            "value": "idNo"
+        "applicationId": {
+            "value": "applicationId"
         },
         "introducerRID": {
             "value": "introducerRID"
@@ -30,15 +36,122 @@
         "introducerName": {
             "value": "introducerName"
         }, 
-        "phoneNumber": {
-            "value": "phoneNumber"
+        "surname": {
+            "value": "surname"
         },
-        "emailAddress": {
-            "value": "emailAddress"
+        "givenName": {
+            "value": "givenName"
         },
         "emailId": {
             "value": "email"
         },
+        "otherNames": {
+            "value": "otherNames"
+        },
+        "otherNames": {
+            "value": "otherNames"
+        },
+        "phone": {
+            "value": "phone"
+        },
+        "phoneNumber": {
+            "value": "phone"
+        },
+        "education": {
+            "value": "education"
+        },
+         "occupation": {
+            "value": "occupation"
+        },
+        "profession": {
+            "value": "profession"
+        },
+        "disability": {
+            "value": "disability"
+        },
+     "residenceLocation": {
+            "value": "residenceLocation"
+        },
+    "residenceCountry": {
+            "value": "residenceCountry"
+        },
+    "weightAtBirth": {
+            "value": "weightAtBirth"
+        },
+    "residenceYearsAtAddress": {
+            "value": "residenceYearsAtAddress"
+        },
+    "residencePostalAddress": {
+            "value": "residencePostalAddress"
+        },
+    "residenceStreet": {
+            "value": "residenceStreet"
+        },
+    "residencePlot": {
+            "value": "residencePlot"
+        },
+    
+     "birthParityOfChild": {
+            "value": "birthParityOfChild"
+        },
+     "birthDistrict": {
+            "value": "birthDistrict"
+        },
+     "birthCounty": {
+            "value": "birthCounty"
+        },
+     "birthSubcounty": {
+            "value": "birthSubcounty"
+        },
+     "birthParish": {
+            "value": "birthParish"
+        },
+     "birthVillage": {
+            "value": "birthVillage"
+        },
+     "birthCity": {
+            "value": "birthCity"
+        },
+     "birthHealthFacility": {
+            "value": "birthHealthFacility"
+        },
+    "originCountry": {
+            "value": "originCountry"
+        },
+    "originDistrict": {
+            "value": "originDistrict"
+        },
+    "originCounty": {
+            "value": "originCounty"
+        },
+    "originSubcounty": {
+            "value": "originSubcounty"
+        },
+    "originParish": {
+            "value": "originParish"
+        },
+    "originVillage": {
+            "value": "originVillage"
+        },
+    "originIndigenousTribe": {
+            "value": "originIndigenousTribe"
+        },
+    "originClan": {
+            "value": "originClan"
+        },
+    "originCitizenshipType": {
+            "value": "originCitizenshipType"
+        },
+    "originCitizenshipCertNumber": {
+            "value": "originCitizenshipCertNumber"
+        },
+    "originCitizenship": {
+            "value": "originCitizenship"
+        },
+    "originPassportFileNumber": {
+            "value": "originPassportFileNumber"
+        },
+    
         "uin": {
             "value": "UIN"
         },
@@ -61,25 +174,25 @@
             "value": "preferredLang"
         },
         "locationHierarchyForProfiling": {
-            "value": "district,village"
+            "value": "residenceDistrict,residenceVillage"
         },
         "location1": {
-            "value": "village"
+            "value": "residenceVillage"
         },
         "location2": {
-            "value": "district"
+            "value": "residenceDistrict"
         },
         "location3": {
-            "value": "parish"
+            "value": "residenceParish"
         },
         "postalCode": {
-            "value": "subCounty"
+            "value": "residenceSubcounty"
         },
         "location4": {
-            "value": "county"
+            "value": "residenceCounty"
         },
         "fullAddress": {
-            "value": "district,county,subCounty,parish,village"
+            "value": "residenceDistrict,residenceCounty,residenceSubcounty,residenceParish,residenceVillage"
         }
     },
     "metaInfo": {
