@@ -5,7 +5,7 @@
         },
         "name": {
             "value": "surname,givenName"
-        }
+        },
         "applicantType": {
             "value": "applicantType"
         },
@@ -17,9 +17,6 @@
         },
         "enrolmentLocation": {
             "value": "enrolmentLocation"
-        },
-        "yourOccupation": {
-            "value": "yourOccupation"
         },
         "applicationId": {
             "value": "applicationId"
@@ -39,6 +36,7 @@
         "surname": {
             "value": "surname"
         },
+    
         "givenName": {
             "value": "givenName"
         },
