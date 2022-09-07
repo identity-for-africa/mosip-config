@@ -9,6 +9,12 @@
         "dob": {
             "value": "dateOfBirth"
         },
+        "gender": {
+            "value": "gender"
+        },
+         "residenceStatus": {
+            "value": "residenceStatus"
+        },
         "age": {
             "value": "age"
         },
