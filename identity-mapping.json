@@ -3,9 +3,6 @@
         "IDSchemaVersion": {
             "value": "IDSchemaVersion"
         },
-        "name": {
-            "value": "surname,givenName"
-        },
         "applicantType": {
             "value": "applicantType"
         },
@@ -40,19 +37,13 @@
         "givenName": {
             "value": "givenName"
         },
-        "emailId": {
+        "email": {
             "value": "email"
         },
         "otherNames": {
             "value": "otherNames"
         },
-        "otherNames": {
-            "value": "otherNames"
-        },
         "phone": {
-            "value": "phone"
-        },
-        "phoneNumber": {
             "value": "phone"
         },
         "education": {
