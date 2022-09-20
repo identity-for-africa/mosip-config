@@ -3,6 +3,9 @@
         "IDSchemaVersion": {
             "value": "IDSchemaVersion"
         },
+        "name": {
+            "value": "surname,givenName"
+        },
         "applicantType": {
             "value": "applicantType"
         },
